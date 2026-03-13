@@ -103,7 +103,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "agnes-demille",
-    name: "AGNES DEMILLE",
+    name: "Agnes de Mille",
     roles: ["composer"],
     shows: [],
     mapX: 170.27,
@@ -111,7 +111,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "ahrens-and-flaherty",
-    name: "AHRENS AND FLAHERTY",
+    name: "Ahrens and Flaherty",
     roles: ["composer"],
     shows: [],
     mapX: 1421.72,
@@ -222,7 +222,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "albert-marre",
-    name: "ALBERT MARRE",
+    name: "Albert Marre",
     roles: ["composer"],
     shows: [],
     mapX: 1313.5,
@@ -443,8 +443,8 @@ export const PEOPLE: BroadwayPerson[] = [
     bio: "Singer-songwriter who developed Hadestown from concept album to Tony-winning musical.",
   },
   {
-    id: "and-staging-of-musical-numbers-by-richard-barstow",
-    name: "and staging of musical numbers by Richard Barstow",
+    id: "richard-barstow",
+    name: "Richard Barstow",
     roles: ['composer'],
     shows: ["New Faces of 1952"],
   },
@@ -1239,7 +1239,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "betty-comden-and-adolph-greene",
-    name: "BETTY COMDEN & ADOLPH GREENE",
+    name: "Betty Comden & Adolph Greene",
     roles: ["composer"],
     shows: [],
     mapX: 952.63,
@@ -1582,7 +1582,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "brian-yorkey",
-    name: "BRIAN YORKEY",
+    name: "Brian Yorkey",
     roles: ["composer"],
     shows: ["Next to Normal"],
     mapX: 1777.63,
@@ -2196,7 +2196,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "christopher-gattelli",
-    name: "CHRISTOPHER GATTELLI",
+    name: "Christopher Gattelli",
     roles: ["composer"],
     shows: [],
     mapX: 1983.37,
@@ -2222,7 +2222,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "christopher-wheeldon",
-    name: "CHRISTOPHER WHEELDON",
+    name: "Christopher Wheeldon",
     roles: ["composer"],
     shows: [],
     mapX: 782.58,
@@ -2254,7 +2254,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "claude-michel-schoenberg",
-    name: "CLAUDE-MICHEL SCHOENBERG",
+    name: "Claude-Michel Schoenberg",
     roles: ["composer"],
     shows: [],
     mapX: 1121.1,
@@ -2268,8 +2268,8 @@ export const PEOPLE: BroadwayPerson[] = [
     bio: "French composer of Les Miserables and Miss Saigon.",
   },
   {
-    id: "claude-michel-schonberg-les-misrables-robert-lindsay",
-    name: "Claude-Michel Schonberg (Les Misérables); Robert Lindsay",
+    id: "claude-michel-schonberg-2",
+    name: "Claude-Michel Schonberg",
     roles: ['composer'],
     shows: ["Me and My Girl"],
   },
@@ -2619,7 +2619,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "danny-mefford",
-    name: "danny mefford",
+    name: "Danny Mefford",
     roles: ["composer"],
     shows: [],
     mapX: 2158.22,
@@ -2843,7 +2843,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "david-yazbeck",
-    name: "DAVID YAZBECK",
+    name: "David Yazbeck",
     roles: ["composer"],
     shows: [],
     mapX: 2234.39,
@@ -3135,7 +3135,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "donald-saddler",
-    name: "DONALD SADDLER",
+    name: "Donald Saddler",
     roles: ["composer"],
     shows: ["Milk and Honey","Follies"],
     mapX: 1302.12,
@@ -4074,7 +4074,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "frank-wildhorn",
-    name: "FRANK WILDHORN",
+    name: "Frank Wildhorn",
     roles: ["composer"],
     shows: [],
     mapX: 2146.54,
@@ -4144,7 +4144,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "galt-macdermott",
-    name: "GALT MACDERMOTT",
+    name: "Galt MacDermot",
     roles: ["composer"],
     shows: [],
     mapX: 1887.67,
@@ -4225,7 +4225,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "gene-saks",
-    name: "GENE SAKS",
+    name: "Gene Saks",
     roles: ["composer"],
     shows: ["Generation"],
     mapX: 678.36,
@@ -4319,7 +4319,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "george-faison",
-    name: "GEORGE FAISON",
+    name: "George Faison",
     roles: ["composer"],
     shows: ["Don’t Bother Me, I Can’t Cope","Purlie"],
     mapX: 1810.98,
@@ -4327,7 +4327,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "george-forrest-and-robert-wright",
-    name: "GEORGE FORREST & ROBERT WRIGHT",
+    name: "George Forrest & Robert Wright",
     roles: ["composer"],
     shows: [],
     mapX: 1242.84,
@@ -4584,7 +4584,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "gillian-lynne",
-    name: "GILLIAN LYNNE",
+    name: "Gillian Lynne",
     roles: ["composer"],
     shows: ["Aspects of Love","Cats","Phantom of the Opera, The","Roar of the Greasepaint — The Smell of the Crowd, The","MacMillan, Sir Kenneth","Carousel"],
     mapX: 1483.83,
@@ -4598,7 +4598,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "glen-ballard",
-    name: "GLEN BALLARD",
+    name: "Glen Ballard",
     roles: ["composer"],
     shows: [],
     mapX: 2289.12,
@@ -4847,7 +4847,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "hal-hackady",
-    name: "HAL HACKADY",
+    name: "Hal Hackady",
     roles: ["composer"],
     shows: [],
     mapX: 1498.5,
@@ -4989,7 +4989,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "hassard-short",
-    name: "HASSARD SHORT",
+    name: "Hassard Short",
     roles: ["composer"],
     shows: [],
     mapX: 1148.91,
@@ -5075,7 +5075,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "helen-tamiris",
-    name: "HELEN TAMIRIS",
+    name: "Helen Tamiris",
     roles: ["composer"],
     shows: ["Annie Get Your Gun","Fanny","Inside U.S.A.","Plain and Fancy","Show Boat","Up in Central Park"],
     mapX: 1069.22,
@@ -5174,7 +5174,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "herbert-ross",
-    name: "herbert ross",
+    name: "Herbert Ross",
     roles: ["composer"],
     shows: ["Bloomer Girl"],
     mapX: 469.64,
@@ -5267,7 +5267,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "howard-dietz-and-arthur-schwartz",
-    name: "HOWARD DIETZ & ARTHUR SCHWARTZ",
+    name: "Howard Dietz & Arthur Schwartz",
     roles: ["composer"],
     shows: [],
     mapX: 1632.59,
@@ -5540,7 +5540,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "jack-cole",
-    name: "JACK COLE",
+    name: "Jack Cole",
     roles: ["composer"],
     shows: ["Funny Thing Happened on the Way to the Forum, A","Jamaica","Kismet","Man of La Mancha"],
     mapX: 854.94,
@@ -5890,7 +5890,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "jason-moore",
-    name: "JASON MOORE",
+    name: "Jason Moore",
     roles: ["composer"],
     shows: [],
     mapX: 1875.3,
@@ -5976,7 +5976,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "jeff-calhoun",
-    name: "JEFF CALHOUN",
+    name: "Jeff Calhoun",
     roles: ["composer"],
     shows: [],
     mapX: 1428.49,
@@ -6123,7 +6123,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "jerome-kern",
-    name: "JEROME KERN",
+    name: "Jerome Kern",
     roles: ["composer"],
     shows: [],
     mapX: 309.28,
@@ -6153,7 +6153,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "jerry-bock-and-sheldon-harnick",
-    name: "JERRY BOCK & SHELDON HARNICK",
+    name: "Jerry Bock & Sheldon Harnick",
     roles: ["composer"],
     shows: [],
     mapX: 582.06,
@@ -6420,7 +6420,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "joe-layton",
-    name: "JOE LAYTON",
+    name: "Joe Layton",
     roles: ["composer"],
     shows: ["Barnum","George M!","Greenwillow","No Strings","Once Upon a Mattress","Sound of Music, The","Wonderful Town"],
     mapX: 170.28,
@@ -6676,7 +6676,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "john-kander-and-fred-ebb",
-    name: "JOHN KANDER & FRED EBB",
+    name: "John Kander & Fred Ebb",
     roles: ["composer"],
     shows: [],
     mapX: 623.9,
@@ -6745,7 +6745,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "john-rando",
-    name: "JOHN RANDO",
+    name: "John Rando",
     roles: ["composer"],
     shows: [],
     mapX: 2226.53,
@@ -7034,7 +7034,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "josh-prince",
-    name: "JOSH PRINCE",
+    name: "Josh Prince",
     roles: ["composer"],
     shows: [],
     mapX: 1795.28,
@@ -7048,7 +7048,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "joshua-logan",
-    name: "JOSHUA LOGAN",
+    name: "Joshua Logan",
     roles: ["composer"],
     shows: ["Wish You Were Here"],
     mapX: 216.33,
@@ -7192,7 +7192,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "julie-arenal",
-    name: "JULIE ARENAL",
+    name: "Julie Arenal",
     roles: ["composer"],
     shows: [],
     mapX: 1790.67,
@@ -7516,7 +7516,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "kelly-devine",
-    name: "KELLY DEVINE",
+    name: "Kelly Devine",
     roles: ["composer"],
     shows: ["Rock of Ages"],
     mapX: 2020.96,
@@ -7701,7 +7701,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "kurt-weill",
-    name: "kurt weill",
+    name: "Kurt Weill",
     roles: ["composer"],
     shows: [],
     mapX: 537.94,
@@ -7775,7 +7775,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "larry-fuller",
-    name: "LARRY FULLER",
+    name: "Larry Fuller",
     roles: ["composer"],
     shows: ["Evita","On the Twentieth Century","Sweeney Todd","Funny Girl"],
     mapX: 1551.6,
@@ -7783,7 +7783,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "larry-grossman",
-    name: "LARRY GROSSMAN",
+    name: "Larry Grossman",
     roles: ["composer"],
     shows: [],
     mapX: 1338.38,
@@ -8123,7 +8123,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "leslie-bricusse",
-    name: "LESLIE BRICUSSE",
+    name: "Leslie Bricusse",
     roles: ["composer"],
     shows: [],
     mapX: 1434.59,
@@ -8254,8 +8254,8 @@ export const PEOPLE: BroadwayPerson[] = [
     mapY: 981.72,
   },
   {
-    id: "lina-major-cast-members-index-abarbanell",
-    name: "Lina Major Cast Members Index Abarbanell",
+    id: "lina-abarbanell",
+    name: "Lina Abarbanell",
     roles: ['composer'],
     shows: ["Madame Sherry"],
   },
@@ -8291,7 +8291,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "lionel-bart",
-    name: "LIONEL BART",
+    name: "Lionel Bart",
     roles: ["composer"],
     shows: [],
     mapX: 1460.33,
@@ -8396,7 +8396,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "lorin-latarro",
-    name: "LORIN LATARRO",
+    name: "Lorin Latarro",
     roles: ["composer"],
     shows: [],
     mapX: 2132.25,
@@ -8952,7 +8952,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "marvin-hamlisch",
-    name: "MARVIN HAMLISCH",
+    name: "Marvin Hamlisch",
     roles: ["composer"],
     shows: [],
     mapX: 826.99,
@@ -9114,7 +9114,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "matthew-skalr",
-    name: "MATTHEW SKALR",
+    name: "Matthew Sklar",
     roles: ["composer"],
     shows: [],
     mapX: 2050.35,
@@ -9382,7 +9382,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "michael-kidd",
-    name: "MICHAEL KIDD",
+    name: "Michael Kidd",
     roles: ["composer"],
     shows: ["Can-Can","Destry Rides Again","Finian’s Rainbow","Guys and Dolls","Li’l Abner","Love Life","The Rothschilds"],
     mapX: 587.28,
@@ -9390,7 +9390,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "michael-korie",
-    name: "MICHAEL KORIE",
+    name: "Michael Korie",
     roles: ["composer"],
     shows: ["Grey Gardens"],
     mapX: 1973.74,
@@ -9552,7 +9552,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "mitch-leigh",
-    name: "MITCH LEIGH",
+    name: "Mitch Leigh",
     roles: ["composer"],
     shows: [],
     mapX: 1578.86,
@@ -9632,7 +9632,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "moss-hart",
-    name: "MOSS HART",
+    name: "Moss Hart",
     roles: ["composer"],
     shows: [],
     mapX: 1178.32,
@@ -9798,7 +9798,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "nicholas-hytner",
-    name: "nicholas hytner",
+    name: "Nicholas Hytner",
     roles: ["composer"],
     shows: [],
     mapX: 1030.02,
@@ -9977,7 +9977,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "onna-white",
-    name: "ONNA WHITE",
+    name: "Onna White",
     roles: ["composer"],
     shows: ["Half a Sixpence","I Love My Wife","Irma la Douce","Mame","Guys and Dolls","Silk Stockings"],
     mapX: 727.36,
@@ -10046,7 +10046,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "patricia-birch",
-    name: "PATRICIA BIRCH",
+    name: "Patricia Birch",
     roles: ["composer"],
     shows: [],
     mapX: 1123,
@@ -10096,7 +10096,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "patrick-mccollum",
-    name: "PATRICK MCCOLLUM",
+    name: "Patrick McCollum",
     roles: ["composer"],
     shows: [],
     mapX: 2211.75,
@@ -10316,7 +10316,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "peter-coe",
-    name: "PETER COE",
+    name: "Peter Coe",
     roles: ["composer"],
     shows: [],
     mapX: 1334.32,
@@ -10336,7 +10336,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "peter-darling",
-    name: "PETER DARLING",
+    name: "Peter Darling",
     roles: ["composer"],
     shows: [],
     mapX: 2115.24,
@@ -10356,7 +10356,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "peter-gennaro",
-    name: "PETER GENNARO",
+    name: "Peter Gennaro",
     roles: ["composer"],
     shows: ["Annie","Fiorello!","Irene","Bells Are Ringing","Guys and Dolls"],
     mapX: 1400.21,
@@ -10862,7 +10862,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "richard-adler",
-    name: "RICHARD ADLER",
+    name: "Richard Adler",
     roles: ["composer"],
     shows: [],
     mapX: 479.3,
@@ -11321,7 +11321,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "rouben-mamoulian",
-    name: "ROUBEN MAMOULIAN",
+    name: "Rouben Mamoulian",
     roles: ["composer"],
     shows: [],
     mapX: 383.31,
@@ -11359,7 +11359,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "rupert-holmes",
-    name: "RUPERT HOLMES",
+    name: "Rupert Holmes",
     roles: ["composer"],
     shows: ["The Mystery of Edwin Drood","Curtains"],
     mapX: 1116.03,
@@ -11793,8 +11793,8 @@ export const PEOPLE: BroadwayPerson[] = [
     bio: "Lyricist whose work with Jerry Bock produced some of Broadway\\",
   },
   {
-    id: "sheldon-harnick-additional-material-by-jerome",
-    name: "Sheldon Harnick; additional material by Jerome",
+    id: "sheldon-harnick-2",
+    name: "Sheldon Harnick",
     roles: ['composer'],
     shows: ["The Apple Tree"],
   },
@@ -12017,7 +12017,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "stephen-brackett",
-    name: "STEPHEN BRACKETT",
+    name: "Stephen Brackett",
     roles: ["composer"],
     shows: [],
     mapX: 2174.82,
@@ -13264,7 +13264,7 @@ export const PEOPLE: BroadwayPerson[] = [
   },
   {
     id: "walter-bobbie",
-    name: "WALTER BOBBIE",
+    name: "Walter Bobbie",
     roles: ["composer"],
     shows: ["Guys and Dolls"],
     mapX: 1861.48,
